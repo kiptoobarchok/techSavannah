@@ -1,0 +1,15 @@
+# Shared secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Node
+node_modules/
+.next/
+out/
+
+# Local tooling
+.DS_Store
